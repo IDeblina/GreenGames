@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundcolour">#000000</color>
+    <color name="bottoncolour">#489F4C</color>
+    <color name="grey">#BDB8B8</color>
+    <color name="green">#3F7141</color>
+    <color name="joinbutton">#293829</color>
+    <color name="challengesbg">#121712</color>
+    <color name="bg4">#121217</color>
+    <color name="botton">#3E8841</color>
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">greengame</string>
+    <string name="join_green_games">Join Green Games</string>
+    <string name="green_games">GREEN GAMES</string>
+    <string name="get_paid_to_save_the_planet">Get paid to save the planet</string>
+    <string name="complete_challenges_earn_points_and_redeem_rewards">Complete challenges, earn points, and redeem rewards</string>
+    <string name="we_ve_partnered_with_brands_that_care_about_the_environment_get_discounts_free_products_and_more">We\'ve partnered with brands that care about the environment. Get discounts, free products, and more</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_up_or_log_in">Sign Up or Log In</string>
+    <string name="welcome_to_green_games">Welcome to Green Games</string>
+    <string name="please_log_in_with_your_information">Please Log In with your information</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_in_or_register">Sign In Or Register</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_bottomnavigation">BottomnavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="challenges">Challenges</string>
+    <string name="settings">settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log Out</string>
+    <string name="Settings">Settings</string>
+    <string name="notification">Notification</string>
+    <string name="privacy">Privacy</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="feedback">Feedback</string>
+    <string name="join">Join</string>
+    <string name="go_to_settings">Go to Settings</string>
+</resources>
